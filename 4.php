@@ -1,0 +1,1 @@
+saya selalu ingin belajar 
