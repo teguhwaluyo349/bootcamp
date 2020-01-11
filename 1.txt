@@ -1,0 +1,4 @@
+1. mobil bergerak jam 05.25.15  dengan kecepatan 3 m/s selama 10 menit 
+2. mobil bergerak dengan kecepatan 4 m/s selama 7 menit
+3. mobil bergerak dengan kecepatan bertambah 1 m/s selama 7 menit dan berulang-ulang 
+4. mobil sampai tepat jam 09.00
